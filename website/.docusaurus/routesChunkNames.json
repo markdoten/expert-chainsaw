@@ -1,0 +1,150 @@
+{
+  "/expert-chainsaw/blog-3a5": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "b04ef743"
+  },
+  "/expert-chainsaw/blog/archive-0d8": {
+    "component": "9e4087bc",
+    "archive": "a2fb364e"
+  },
+  "/expert-chainsaw/blog/first-blog-post-2d8": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/expert-chainsaw/blog/long-blog-post-924": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/expert-chainsaw/blog/mdx-blog-post-d73": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/expert-chainsaw/blog/tags-3ca": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "ee2b163e"
+  },
+  "/expert-chainsaw/blog/tags/docusaurus-067": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "d3340aaa"
+  },
+  "/expert-chainsaw/blog/tags/facebook-3ef": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "metadata": "b1eb7c5a"
+  },
+  "/expert-chainsaw/blog/tags/hello-c7d": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "metadata": "1a4fb4ab"
+  },
+  "/expert-chainsaw/blog/tags/hola-16b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "26f8b0a4"
+  },
+  "/expert-chainsaw/blog/welcome-bc9": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/expert-chainsaw/markdown-page-543": {
+    "component": "1f391b9e",
+    "content": "393be207"
+  },
+  "/expert-chainsaw/docs-d3a": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/expert-chainsaw/docs/intro-4b5": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/congratulations-123": {
+    "component": "17896441",
+    "content": "822bd8ab"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/create-a-blog-post-f5b": {
+    "component": "17896441",
+    "content": "533a09ca"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/create-a-document-6b9": {
+    "component": "17896441",
+    "content": "1e4232ab"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/create-a-page-46b": {
+    "component": "17896441",
+    "content": "5c868d36"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/deploy-your-site-820": {
+    "component": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/expert-chainsaw/docs/tutorial-basics/markdown-features-678": {
+    "component": "17896441",
+    "content": "18c41134"
+  },
+  "/expert-chainsaw/docs/tutorial-extras/manage-docs-versions-8d2": {
+    "component": "17896441",
+    "content": "dff1c289"
+  },
+  "/expert-chainsaw/docs/tutorial-extras/translate-your-site-962": {
+    "component": "17896441",
+    "content": "e44a2883"
+  },
+  "/expert-chainsaw/-395": {
+    "component": "1df93b7f",
+    "config": "5e9f5e1a"
+  }
+}
