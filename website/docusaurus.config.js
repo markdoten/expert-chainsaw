@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'markdoten', // Usually your GitHub org/user name.
   projectName: 'expert-chainsaw', // Usually your repo name.
-  deploymentBranch: 'docs',
 
   presets: [
     [
