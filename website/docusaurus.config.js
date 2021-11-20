@@ -9,12 +9,13 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://markdoten.github.io',
-  baseUrl: '/',
+  baseUrl: '/expert-chainsaw/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'markdoten', // Usually your GitHub org/user name.
   projectName: 'expert-chainsaw', // Usually your repo name.
+  deploymentBranch: 'docs',
 
   presets: [
     [
