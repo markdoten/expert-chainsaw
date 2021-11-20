@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[937],{6806:function(e){e.exports=JSON.parse('{"allTagsPath":"/expert-chainsaw/blog/tags","slug":"/expert-chainsaw/blog/tags/hello","name":"hello","count":2,"permalink":"/expert-chainsaw/blog/tags/hello"}')}}]);
